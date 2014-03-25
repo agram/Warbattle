@@ -1,0 +1,7 @@
+-cp src
+-swf WarBattle.swf
+-swf-header 1536:864:60:FFFFFF
+-swf-version 11.8
+-main Game.hx
+-lib h3d
+-D advanced-telemetry

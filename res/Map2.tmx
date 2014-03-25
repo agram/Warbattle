@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="44" height="27" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="tileset_7" tilewidth="16" tileheight="16">
+  <image source="tileset_7.png" trans="ffffff" width="256" height="96"/>
+ </tileset>
+ <tileset firstgid="97" name="forest_tileset" tilewidth="16" tileheight="16">
+  <image source="forest_tileset.png" trans="ffffff" width="224" height="128"/>
+ </tileset>
+ <layer name="ground" width="44" height="27">
+  <data encoding="base64" compression="zlib">
+   eJy1l0Fv00AUhBdKobC+RGkrGvtCKbSUc0WLxCWHqiDOIPj/P4RnyaOOv7x1hBCHkTexs56dN/tmM5RShr/Eh8DPwPWe554FzgOHe57rAzXQTWN9ro3nqz3f2XiwOfz7h8BN4N5+k2EduAis8HvO7+jxfbXPGvt6fJ0dxrreBW4DPyaNW3yPAweBN5PGS2sbylyzTLu+8Vwtc91dX42l8U2il+vY4uwaUL8O8y096+tw3X0tfaKxP+/zZDr7+3s8m+nX435X5p7vcH8ou+sejPN9g6//TpxXe+runL3+fuUa6BfuY59HnK/Lbp0qsDaNuVdqmdfT10o/0Kfi+zLwCnP7WPM9lMdekfUhvYe+YH/IfpPd4z7UGs4CRxNn+s3r5ho7X71ra/M6Z/Vm+mGEerfj0N6ZeWm8vg6cJvfdF9SYe8V16CfOT8ujnzMO6t2Olc1BrqMXLgNXgfdl7gufX5ypMXsA/Zb5mXyfTOsSTuzd7gvp+g7gPvC9Uk1j5lOWU+J7UeZ+Vo6/LfNewn5HH5OvNGaP9DWwV/C+c1WWyBfy8/nEVfVnL2B/c99SX3Helrk33FPSmLno3mH+i7dwYHxb2cJszviK8+XEm9nIXuFaeAZkWeTgOYl9tiZj5/s18D3wzb47hcY+36gxc9qzvJULGV9mBespON8vgY+B3+DL/NDYc9rr3pddD2c5Sr5Z/jjXsZddGbdf4Po8sEl09dq5xqxBlv/MbfqBnDOuI68XE46greuytXdqzLNQtuda+a3ee7LAN/Ot1/zMuG+gB32ssWucZR4zcqn3kqvm0JnB+fJMktXQe4Tmo8bZ2YafXVueJ3lO1Hqk5cZ4OcfWfs/OkPRxdvbw2qzL/P9edm6sjSs5Zr2ltQ+kg/83pUass3thwDz+XvHh+pm5vOdjZpmQ/W9iPru23hcyv7f2anYO871KfZYyixqzR/Smrbyb1YAZ/K9Xnpl0pcZeA/HgPsvyl977nxg5fwp8btw/Nl2X8AfUHWoD
+  </data>
+ </layer>
+ <layer name="forest" width="44" height="27">
+  <data encoding="base64" compression="zlib">
+   eJztlkkLwjAQhfNXXa+up4qC3qSuILh7db0o/kDfYIOlNCFmGhGaBx9zMc3DzJtECC8vr7yoAIqgBMoptQKqhmt1v81Ka7ABW7BLqXtwUKytgTpYgidogbZjv0dwAmdwSalXcFOs7YJe5PcB+mDg2C9H0u8CrIS931/1lfR7j7D1G4IRGIMJmIJZRh6/3UeV5/h/mMyQLjMcmexDmaR+of7uiHevB2AuPtlMZkiXGY5M9gkjb/IMZKX+cXHmXKnmpasz50o1L3VnbtLz/yR5DwUR1P/U97+4j2xEc3IIGqAZq5RXzn3EeXvolJyTWc1lztvD5rvcjHLeHjbfdTWXvby88qkXUMh4EA==
+  </data>
+ </layer>
+</map>
